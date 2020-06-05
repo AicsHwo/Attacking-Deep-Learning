@@ -37,3 +37,31 @@ https://github.com/facebookresearch/detr?fbclid=IwAR1Mi3D8GrHQa9vKqYVPFxNjrcH3x9
 
 # Attack Plans
 ![alt text](/Illustrations/Attack%20plan.png "Attack plan")  
+
+# Datasets
+### Camera / Image Signal Processing (ISP)
+#### 1. Auto focus
+https://www.eecs.yorku.ca/~abuolaim/eccv_2018_autofocus/dataset.html  
+
+#### 2. Noise Dataset
+https://noise.visinf.tu-darmstadt.de/  
+
+### Face Detection / Recognition
+
+
+### Object Detection / Segmentation
+http://cocodataset.org/  
+
+### Pose Detection
+https://posetrack.net/  
+```
+:: Windows batch, download wget for windows from http://gnuwin32.sourceforge.net/packages/wget.htm  
+For %%X in (a b c d e f g h i j k l m n o p q r) do (wget https://posetrack.net/posetrack18-data/posetrack18_images.tar.a%%X --no-check-certificate)  
+```
+
+### Optical Flow
+#### 1. 
+#### 2.
+#### 3.
+#### 4.
+#### 5.
